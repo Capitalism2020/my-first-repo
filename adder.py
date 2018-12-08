@@ -1,1 +1,2 @@
-print("IT works!!")
+for i in range(1, 20+1):
+    print("IT works!!")
